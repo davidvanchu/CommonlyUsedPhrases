@@ -1,7 +1,7 @@
 {
   "main.css": "/CommonlyUsedPhrases/static/css/main.0aa62b60.chunk.css",
-  "main.js": "/CommonlyUsedPhrases/static/js/main.a9bb4c59.chunk.js",
-  "main.js.map": "/CommonlyUsedPhrases/static/js/main.a9bb4c59.chunk.js.map",
+  "main.js": "/CommonlyUsedPhrases/static/js/main.3448bd3e.chunk.js",
+  "main.js.map": "/CommonlyUsedPhrases/static/js/main.3448bd3e.chunk.js.map",
   "static/js/1.252e1990.chunk.js": "/CommonlyUsedPhrases/static/js/1.252e1990.chunk.js",
   "static/js/1.252e1990.chunk.js.map": "/CommonlyUsedPhrases/static/js/1.252e1990.chunk.js.map",
   "runtime~main.js": "/CommonlyUsedPhrases/static/js/runtime~main.206104f2.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/CommonlyUsedPhrases/static/media/logo.5d5d9eef.svg",
   "static/css/main.0aa62b60.chunk.css.map": "/CommonlyUsedPhrases/static/css/main.0aa62b60.chunk.css.map",
   "index.html": "/CommonlyUsedPhrases/index.html",
-  "precache-manifest.3946f7125553c48439974681d7261095.js": "/CommonlyUsedPhrases/precache-manifest.3946f7125553c48439974681d7261095.js",
+  "precache-manifest.b92bd0076399f4f7657e92ffeef7c161.js": "/CommonlyUsedPhrases/precache-manifest.b92bd0076399f4f7657e92ffeef7c161.js",
   "service-worker.js": "/CommonlyUsedPhrases/service-worker.js"
 }
